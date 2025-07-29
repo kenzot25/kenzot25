@@ -41,6 +41,8 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
 ![Apollo](https://img.shields.io/badge/Apollo-311C87?logo=apollographql&logoColor=white&style=flat-square)
 ![RESTful API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white&style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&style=flat-square)
 
 **State Management:**  
 ![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white&style=flat-square)
@@ -54,8 +56,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Google Drive API](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white&style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&style=flat-square)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)

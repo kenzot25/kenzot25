@@ -13,7 +13,7 @@
 - 🧑‍💻 4 years of experience in web & mobile software development  
 - 🚀 Passionate about building scalable, high-quality products that deliver real business value  
 - 💡 Startup builder – I love exploring, creating, and launching new ideas  
-- 👥 Led small teams and interned as a technical lead  
+- 👥 Lead small teams and interned as a technical lead  
 - 🤝 Thrive in agile teams; always eager to learn, share, and collaborate  
 - 🌱 Lifelong tech enthusiast and explorer  
 - 🏗️ Currently learning AWS Solution Architecture and building apps for my own startup  

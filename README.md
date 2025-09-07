@@ -10,13 +10,14 @@
 
 ## 👤 About Me
 
-- 🧑‍💻 4 years of experience in web & mobile software development  
-- 🚀 Passionate about building scalable, high-quality products that deliver real business value  
-- 💡 Startup builder – I love exploring, creating, and launching new ideas  
-- 👥 Lead small teams and interned as a technical lead  
-- 🤝 Thrive in agile teams; always eager to learn, share, and collaborate  
-- 🌱 Lifelong tech enthusiast and explorer  
-- 🏗️ Currently learning AWS Solution Architecture and building apps for my own startup  
+- 🧑‍💻 4+ years of experience in web and mobile software development, with a strong focus on designing and delivering scalable, high-quality solutions.
+- 🚀 Passionate about building products that drive measurable business impact, from concept to deployment.
+- 💡 Experienced in startup environments, with a proven ability to explore, create, and launch innovative ideas.
+- 👥 Skilled in leading small teams and mentoring developers, including experience as a technical lead.
+- 🤝 Thrive in agile, collaborative environments, always eager to share knowledge and continuously learn.
+- 🌱 A lifelong technology enthusiast, constantly exploring new tools, frameworks, and best practices.
+- 🏗️ Currently expanding expertise in AWS Solution Architecture.
+- 📱 Developing and launching applications for my own startup.
 
 ---
 
